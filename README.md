@@ -45,7 +45,7 @@ Here are my dotfiles for :
 - Terminal : Windows Terminal (config)
 - Browser : Firefox
 - Note-taking : Obsidian
-- Other : Postman, PICO-8, Etcher
+- Other : Postman, PICO-8, Etcher, Docker, Spotify
 
 🎮 Raspberry Pi :
 
