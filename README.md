@@ -4,6 +4,7 @@ Here are my dotfiles for :
 
 - nvim
 - powershell
+- oh-my-posh
 
 # Uses
 
