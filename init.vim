@@ -23,6 +23,7 @@ Plug 'kyazdani42/nvim-web-devicons'
 Plug 'https://github.com/pangloss/vim-javascript'
 Plug 'https://github.com/leafgarland/typescript-vim'
 Plug 'https://github.com/danilo-augusto/vim-afterglow'
+Plug 'Pocco81/true-zen.nvim'
 call plug#end()
 
 nnoremap <C-y> :NERDTreeFocus<CR>
