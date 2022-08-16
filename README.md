@@ -21,8 +21,8 @@ Here are my dotfiles for :
 
 🖥️ Main PC :
 
-- Keyboard : Razer Ornata v2 (Keychron K2 soon)
-- Mouse : Razer Basilisk v2 (g502 soon)
+- Keyboard : Razer Ornata v2 (Ducky Channel One 3 Mini Yelllow soon)
+- Mouse : Logitech g305
 - Monitor : Asus VG27AQ
 
 💻 Laptop : 
