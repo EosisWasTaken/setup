@@ -15,9 +15,9 @@ Here are my dotfiles for :
 
 💻 Laptop : (coding and classes)<br> Windows 11 / Lenovo IdeaPad 3 15ITL6 / Intel i3 11th gen / 8Gb RAM / 256Gb SSD 
 
-🎮 Raspberry Pi : (game emulation station)<br> Batocera 34 / Raspberry Pi 3B+
+🎮 Raspberry Pi : (game emulation station)<br> RetroPie / Raspberry Pi 3B+
 
-### Hardware : 
+###  : 
 
 🖥️ Main PC :
 
@@ -69,9 +69,9 @@ Quick desk setup :
 - [IKEA Renberget Chair](https://www.ikea.com/fr/fr/p/renberget-chaise-pivotante-bomstad-noir-60493546/)
 - A ✨ p l a n t ✨ (Asparagus)
 - HyperX Cloud Alpha 
-- LG PH1 Bluetooth Speaker
-- Nintendo Switch Pro Controller
-- Keyboard, Mouse, Monitor and a journal with some pencils 
+- Divoom Ditoo
+- Nintendo Switch Pro Controller (Custom Yellow Skin)
+- Keyboard, Mouse, Steelseries Medium Mousepad, Monitor and a journal with some pencils 
 
 
  
