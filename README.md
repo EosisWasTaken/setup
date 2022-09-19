@@ -2,7 +2,7 @@
 
 Here are my dotfiles for :
 
-- nvim
+- VSCode
 - powershell
 - oh-my-posh
 - Windows Terminal
@@ -40,7 +40,7 @@ Here are my dotfiles for :
 
 💻 Laptop : 
 
-- Code editor : nvim (config)
+- IDE : VSCode
 - Launcher : Powertoys Run
 - Terminal : Windows Terminal (config)
 - Browser : Firefox
@@ -56,12 +56,13 @@ Here are my dotfiles for :
 I always carry these things on me :
 
 - Redmi Note 8 Pro
-- Klim Fusion Headphones
+- Sony WF C500 Earbuds
 - Mi Band 6
 
 And if I'm at school :
-- Dicota backpack
-- Battery bank
+
+- Cool yellow backpack
+- 26800 mAh Battery Bank
 - Sandisk 128 Gb USB stick
 
 Quick desk setup :
