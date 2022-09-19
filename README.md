@@ -11,7 +11,7 @@ Here are my dotfiles for :
 
 ### Computers :
 
-🖥️ Main PC : (gaming ang general computing) <br>Arch Linux / Gigabyte A350m / Ryzen 4650G / No GPU / 16Gb RAM / 2To HDD / 256Gb SSD / 256Gb M2 
+🖥️ Main PC : (gaming ang general computing) <br>Arch Linux / Gigabyte A350m / Ryzen 4650G / No GPU (GPU chipset is good enough) / 16Gb RAM / 2To HDD / 256Gb SSD / 256Gb M2 
 
 💻 Laptop : (coding and classes)<br> Windows 11 / Lenovo IdeaPad 3 15ITL6 / Intel i3 11th gen / 8Gb RAM / 256Gb SSD 
 
